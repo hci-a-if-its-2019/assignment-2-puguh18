@@ -8,45 +8,58 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 
 ### 1. Scan/Photo of Sketches
 ```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
+Actual UI
+![](Designs/actual.png)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+Alternative Solution (1)
+![](Designs/1.png)
+
+Alternative SOlution (2)
+![](Designs/2.png)
+
+Alternative Solution (3)
+![](Designs/3.png)
+
+```
 
 ### 2. Version Differences
 ```
-Please write a paragraph talking about the differences between the versions
+1. Actual UI
+   For the original, if you want to search news by the categories, for the full page view (left sketch) as you can see, you must scroll down all the way to get the categories list. I think that is not a good idea. And if you visit the news page (right sketch), you will immediately see the news headline without noticing whether is it true or no that even the headline included in the category of the news you choosed. Because you after you clicked on the category, you want to see the news with the category right? (Not the main page for the news)
+   
+a. Alternative Solution (1)
+   For the first alternative, i want to make the viewer being able to see what they want, so i make sketched the category bars in the side area of the page so that they can see all the categories available. The news line becoming like a list-type-of posting too.
+   
+b. Alternative Solution (2)
+   For th second alternative, this is more likely to be the interactive version from the first alternative. Adding more motion to attract more clicking and simplified the bars.
+   
+c. Alterative Solution (3)
+   For the last alternative, the dropdown is leveled up a bit, using animation and the categories are using icon instead of just words. The dropdown should be not covering the background completely, but becoming half invisible so that the news can still be seen
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+The last one because it feels more modern.
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+I think it is important for the user to know exactly what will they do, so placing all the user's choice in 1 view as possible important too.
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+    Operating System : Windows
+    RAM : 4 GB
+    Display : 1306 x 768 (32 bit)
+    Processor : Intel(R) Core(TM) i5-5200U CPU @2.20 GHz 
+    Input : Keyboard, Mouse, and Touchscreen
+   
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+Those who are good with computers, good at english, familiar with certain types of web designs. Users are expected to be arround my age (19) and can use input devices (mouse and keyboard) well. 
 ```
 
 ## Part C: Prototypes
