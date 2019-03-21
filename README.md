@@ -9,16 +9,16 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 ### 1. Scan/Photo of Sketches
 ```
 Actual UI
-![](Designs/actual.png)
+![](Designs/actual.jpg)
 
 Alternative Solution (1)
-![](Designs/1.png)
+![](Designs/1.jpg)
 
 Alternative SOlution (2)
-![](Designs/2.png)
+![](Designs/2.jpg)
 
 Alternative Solution (3)
-![](Designs/3.png)
+![](Designs/3.jpg)
 
 ```
 
