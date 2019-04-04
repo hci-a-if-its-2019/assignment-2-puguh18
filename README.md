@@ -7,20 +7,20 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
+
 Actual UI
-![](Designs/actual.png)
+![](Designs/actual.jpg)
 
 Alternative Solution (1)
-![](Designs/1.png)
+![](Designs/1.jpg)
 
 Alternative SOlution (2)
-![](Designs/2.png)
+![](Designs/2.jpg)
 
 Alternative Solution (3)
-![](Designs/3.png)
+![](Designs/3.jpg)
 
-```
+
 
 ### 2. Version Differences
 ```
@@ -63,4 +63,8 @@ Those who are good with computers, good at english, familiar with certain types 
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+Freehand:
+https://projects.invisionapp.com/freehand/document/yQ9Cq2H2F
+
+Prototype:
+https://invis.io/4NRD67OQ9EU
