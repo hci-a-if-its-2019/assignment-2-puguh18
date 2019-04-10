@@ -66,5 +66,8 @@ Those who are good with computers, good at english, familiar with certain types 
 Freehand:
 https://projects.invisionapp.com/freehand/document/yQ9Cq2H2F
 
-Prototype:
-https://invis.io/4NRD67OQ9EU
+Low Fidelity Prototype:
+https://invis.io/5XRCTAJZBYM
+
+High Fidelity Prototype:
+https://invis.io/Q7RGVXTZ4DG
